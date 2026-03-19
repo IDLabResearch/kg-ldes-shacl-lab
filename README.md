@@ -1,5 +1,7 @@
 # LDES and SHACL lab
 
+**Important:** The following tasks require a working [Node.js](https://nodejs.org/en/download) environment.
+
 ## Task 1: Publish an LDES
 
 Create and publish over HTTP an RDF resource (using your favorite serialization format) that defines an [LDES](https://w3id.org/ldes/specification) with the following characteristics:
